@@ -37,7 +37,7 @@ var MAINAPP = (function (nsp, $, domU, strU) {
         },
 
         initQuiz = function () {
-            loadJSON('../JSON/questions.json');
+            loadJSON('/JSON/questions.json');
         };
 
     //Setup Questions
