@@ -1,0 +1,22 @@
+{
+  "name": "tinkery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint modules",
+    "start": "node start.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://juzzyo@bitbucket.org/juzzyo/tinkery.git"
+  },
+  "author": "Justin O'Neill",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/juzzyo/tinkery#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  },
+  "dependencies": {}
+}

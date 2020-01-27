@@ -1,0 +1,32 @@
+.button {
+    display: inline-block;
+    width: 10rem;
+    height: 10rem;
+    cursor: pointer;
+    opacity: 0.9;
+}
+
+
+.button:hover {
+    opacity: 1;
+}
+
+.active {
+    opacity: 0.7;
+}
+
+.b1 {
+    background: darkred;
+}
+
+.b2 {
+    background: seagreen;
+}
+
+.b3 {
+    background: midnightblue;
+}
+
+.b4 {
+    background: orange;
+}
