@@ -1,9 +1,10 @@
-const rando = require('./rando');
+const {rando} = require('./exporter');
 
+console.log(rando);
 test('basic random choice tests', () => {
-  const r = new rando.Choice(['a', 'b']);
-  expect(r.list()).toEqual(['a', 'b']);
+    const r = new rando.Choice(['a', 'b']);
+    expect(r.list()).toEqual(['a', 'b']);
 
-  // expect the result from get to be an item in list
-  expect(r.list()).toContain(r.get());
+    // expect the result from get to be an item in list
+    expect(r.list()).toContain(r.get());
 });

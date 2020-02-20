@@ -1,0 +1,288 @@
+{
+
+	"location:2546:narooma": {
+		"id": "location:2546:narooma",
+		"suburb": "Narooma",
+		"lat": "-36.23772317",
+		"long": "150.0514496",
+		"postcode": "2546",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2546:wallaga-lake": {
+		"id": "location:2546:wallaga-lake",
+		"suburb": "Wallaga Lake",
+		"lat": "-36.37080489",
+		"long": "150.0608009",
+		"postcode": "2546",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2546:central-tilba": {
+		"id": "location:2546:central-tilba",
+		"suburb": "Central Tilba",
+		"lat": "-36.30479732",
+		"long": "150.0776919",
+		"postcode": "2546",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2546:akolele": {
+		"id": "location:2546:akolele",
+		"suburb": "Akolele",
+		"lat": "-36.34809064",
+		"long": "150.0760527",
+		"postcode": "2546",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2546:corunna": {
+		"id": "location:2546:corunna",
+		"suburb": "Corunna",
+		"lat": "-36.28151108",
+		"long": "150.1072675",
+		"postcode": "2546",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2546:mystery-bay": {
+		"id": "location:2546:mystery-bay",
+		"suburb": "Mystery Bay",
+		"lat": "-36.31037035",
+		"long": "150.1260584",
+		"postcode": "2546",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:3892:mallacoota": {
+		"id": "location:3892:mallacoota",
+		"suburb": "Mallacoota",
+		"lat": "-37.51016137",
+		"long": "149.7996431",
+		"postcode": "3892",
+		"state": {
+			"id": "vic",
+			"name": "Victoria"
+		},
+		"abcRegion": {
+			"region": "gippsland",
+			"regionName": "Gippsland"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2551:nadgee": {
+		"id": "location:2551:nadgee",
+		"suburb": "Nadgee",
+		"lat": "-37.36624855",
+		"long": "149.8599061",
+		"postcode": "2551",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2548:bournda": {
+		"id": "location:2548:bournda",
+		"suburb": "Bournda",
+		"lat": "-36.81444691",
+		"long": "149.8830733",
+		"postcode": "2548",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2551:eden": {
+		"id": "location:2551:eden",
+		"suburb": "Eden",
+		"lat": "-37.02304106",
+		"long": "149.8929184",
+		"postcode": "2551",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2551:boydtown": {
+		"id": "location:2551:boydtown",
+		"suburb": "Boydtown",
+		"lat": "-37.10711444",
+		"long": "149.8733076",
+		"postcode": "2551",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2548:merimbula": {
+		"id": "location:2548:merimbula",
+		"suburb": "Merimbula",
+		"lat": "-36.89253858",
+		"long": "149.8979234",
+		"postcode": "2548",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2549:pambula-beach": {
+		"id": "location:2549:pambula-beach",
+		"suburb": "Pambula Beach",
+		"lat": "-36.94535271",
+		"long": "149.8973808",
+		"postcode": "2549",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2551:wonboyn": {
+		"id": "location:2551:wonboyn",
+		"suburb": "Wonboyn",
+		"lat": "-37.25244609",
+		"long": "149.933531",
+		"postcode": "2551",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	},
+	"location:2548:tura-beach": {
+		"id": "location:2548:tura-beach",
+		"suburb": "Tura Beach",
+		"lat": "-36.86057209",
+		"long": "149.9240003",
+		"postcode": "2548",
+		"state": {
+			"id": "nsw",
+			"name": "New South Wales"
+		},
+		"abcRegion": {
+			"region": "southeastnsw",
+			"regionName": "South East NSW"
+		},
+		"bomRegion": {
+			"land": "NSW_PW007",
+			"marine": "NSW_MW001"
+		}
+	}
+}

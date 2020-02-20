@@ -18,7 +18,7 @@ var Rando = (function (r) {
     Choice.prototype.list = function () {
         console.log(this.arr);
         return this.arr;
-    }
+    };
 
     // public
     r.Choice = Choice;
@@ -26,6 +26,3 @@ var Rando = (function (r) {
     return r;
 })(Rando || {});
 
-// if(module) {
-//     module.exports = Rando;
-// }

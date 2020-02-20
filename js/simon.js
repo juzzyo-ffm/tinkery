@@ -1,73 +1,145 @@
-// start a new set, pick the first colour, add to simonSaid array
 
 
-var simon = (function (s, Choice) {
+
+var simon = (function (s, Choice, domU) {
 
     var rc = new Choice(['red', 'green', 'blue', 'yellow']);
-    const says = function () {
-        console.log('simon is awake and wants to play a game');
-        setUpButtons(rc.get());
-    };
     var Buttons = []; // array of Button objects
     var buttons = []; // array of dom elements
+    var beeps = [];
 
-    var Button = function (obj) {
-        var container = document.querySelector('.container');
-        this.id = obj.getAttribute('id');
+    const buttonControllerProto =  {
+        simonSaysArray: [rc.get()],
+        numberOfGuesses: 0,
+        guessesArray: [],
+        allGuessesAreCorrect: function (e) {
+            // todo: add try catch here
+            if (this.simonSaysArray.length !== this.guessesArray.length) {
+                return false;
+            }
+            let guessIndex = this.guessesArray.length - 1;
+            for (let i = 0, l = this.simonSaysArray.length; i < l; i++) {
+                if ( this.simonSaysArray[guessIndex] !== this.guessesArray[guessIndex]) {
+                    return false
+                }
+            }
+            return true;
+        },
+        lastGuessWasCorrect: function(){
+            let guessIndex = this.guessesArray.length - 1;
+            return this.guessesArray[guessIndex] === this.simonSaysArray[guessIndex];
+        },
+        addNewItem: function () {
+            this.simonSaysArray.push(rc.get());
+            console.log('new value of simonSaysArray:', this.simonSaysArray)
+        },
+        addGuess: function(guess) {
+            this.guessesArray.push(guess);
+        },
+        clearGuesses: function() {
+            this.guessesArray = [];
+        },
 
     };
+
+
+    const bc = Object.create(buttonControllerProto);
+
+
+    const Button = function (obj) {
+        this.id = obj.getAttribute('id');
+    };
+
+    Button.prototype.playErrorTone = function (frequency = 440) {
+        const audioError = document.getElementById('audio-error');
+        audioError.play();
+    };
+
 
     Button.prototype.handleClick = function (e) {
-        console.log('this', this);
-        var correct;
-        this.numberOfGuesses = this.numberOfGuesses + 1;
-        if (this.numberOfGuesses === this.simonSaysArray.length) {
-            this.numberOfGuesses = 0;
-            console.log('e', e);
-            this.guessesArray.push(e);
-            if (this.allGuessesAreCorrect()) {
-                // provide positive reinforcement (ding),
-                // add a new item to the array,
-                // and play the whole new sequence
-                this.simonSaysArray.push(rc.get());
-            }
-
+        bc.addGuess(this.id);
+        if (bc.lastGuessWasCorrect()) {
+            console.log('last guess was correct');
+            this.beep.play();
+        } else {
+            console.log('you made a bad guess, start again');
+            this.playErrorTone();
+            bc.clearGuesses();
+            bc.simonSaysArray = [];
+            bc.addNewItem();
         }
 
-
-        // when the number of clicks equals the number of answers,
-        // play back the correct results
-
-
+        if (bc.allGuessesAreCorrect()) {
+            console.log('all guesses correct!!!');
+            bc.clearGuesses();
+            bc.addNewItem();
+            start();
+        }
     };
-    Button.prototype.allGuessesAreCorrect = function (e) {
-
-
-    };
-    Button.prototype.addNewItem = function () {
-
-    };
-    Button.prototype.simonSaysArray = [rc.get()];
-    Button.prototype.numberOfGuesses = 0;
-    Button.prototype.guessesArray = [];
 
 
     var setUpButtons = function () {
         buttons = document.querySelectorAll('.button');
+
+
+        console.log('beeps;', beeps)
         buttons.forEach(function (b, i) {
-            Buttons[i] = new Button(b);
-            buttons[i].addEventListener('click', function (i) {
-                Buttons[i].handleClick(i);
+            let newButton = new Button(b);
+            Buttons[i] = newButton;
+            Buttons[i].beep = beeps[i];
+            buttons[i].addEventListener('click', function (e) {
+                newButton.handleClick(e);
             });
         });
     };
 
+    var setUpBeeps = function() {
+        beeps = document.querySelectorAll('.beeps');
+    };
+
+
+    var loop = function (i) {
+        let current = bc.simonSaysArray[i];
+        let previous = bc.simonSaysArray[i - 1 || 0];
+        let thisButton = document.querySelectorAll(`.${current}`);
+        let prevButton = document.querySelectorAll(`.${previous}`);
+        domU.removeClass(prevButton, 'active');
+        domU.addClass(thisButton, 'active');
+        setTimeout(function () {
+            if (++i < bc.simonSaysArray.length) loop(i);
+        }, 1000);
+
+    };
+
+    var start = function () {
+        let i = 0;
+        console.log(bc.simonSaysArray);
+        loop(i);
+        setTimeout(function () {
+            console.log('>>>>', bc.simonSaysArray);
+            domU.removeClass(document.querySelectorAll(`.${bc.simonSaysArray[bc.simonSaysArray.length - 1]}`), 'active');
+        }, 1000 * bc.simonSaysArray.length + 1);
+
+    };
+
+    const says = function () {
+        console.log('simon is awake and wants to play a game');
+        setUpBeeps();
+        setUpButtons();
+        start();
+    };
+
     s.says = says;
+
+    // making the below public for debugging / testing
+    // todo: wrap in env var
     s.buttons = buttons;
     s.Buttons = Buttons;
+    s.buttonController = bc;
+    s.beeps = beeps;
     return s;
 
-})(simon || {}, Rando.Choice);
+})(simon || {}, Rando.Choice, UTIL.dom);
 
 // init on ready
 UTIL.domReady(function () {

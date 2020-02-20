@@ -1,0 +1,17 @@
+{
+  "name": "darksky",
+  "version": "1.0.0",
+  "description": "",
+  "main": "generate_location_dictionary.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Justin O'Neill <abc.net.au>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "node-fetch": "^2.6.0",
+    "request": "^2.88.0"
+  }
+}

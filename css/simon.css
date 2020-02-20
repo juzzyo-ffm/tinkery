@@ -3,30 +3,64 @@
     width: 10rem;
     height: 10rem;
     cursor: pointer;
-    opacity: 0.9;
+    opacity: 0.8;
 }
 
+#container {
+    margin-top: 3rem;
+}
+
+.row1, .row2 {
+    display: flex;
+    justify-content: center;
+}
+
+.button {
+    margin: .25rem;
+}
 
 .button:hover {
     opacity: 1;
 }
 
 .active {
-    opacity: 0.7;
+    animation: blinky .5s;
+    animation-timing-function: ease;
 }
 
-.b1 {
+@keyframes blinky {
+    0% {
+        opacity: .8;
+    }
+    20% {
+        opacity: 0;
+    }
+    100% {
+        opacity: .8;
+    }
+}
+
+/*.active {*/
+/*    opacity: .2;*/
+/*    transition-duration: .3s;*/
+/*}*/
+
+.red {
     background: darkred;
+    border-top-left-radius: 2rem;
 }
 
-.b2 {
+.green {
     background: seagreen;
+    border-top-right-radius: 2rem;
 }
 
-.b3 {
+.blue {
     background: midnightblue;
+    border-bottom-left-radius: 2rem;
 }
 
-.b4 {
+.yellow {
     background: orange;
+    border-bottom-right-radius: 2rem;
 }

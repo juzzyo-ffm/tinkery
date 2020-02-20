@@ -1,0 +1,593 @@
+URL: https://www.abc.net.au/radio/adelaide/weather/
+PRIMARY LOCATION: Adelaide
+Adelaide	https://www.abc.net.au/radio/adelaide/weather/?town=Adelaide
+Adelaide Ap	https://www.abc.net.au/radio/adelaide/weather/?town=Adelaide%20Ap
+Cape Borda	https://www.abc.net.au/radio/adelaide/weather/?town=Cape%20Borda
+Cape Willoughby	https://www.abc.net.au/radio/adelaide/weather/?town=Cape%20Willoughby
+Clare	https://www.abc.net.au/radio/adelaide/weather/?town=Clare
+Elizabeth	https://www.abc.net.au/radio/adelaide/weather/?town=Elizabeth
+Kingscote	https://www.abc.net.au/radio/adelaide/weather/?town=Kingscote
+Kuitpo	https://www.abc.net.au/radio/adelaide/weather/?town=Kuitpo
+Meningie	https://www.abc.net.au/radio/adelaide/weather/?town=Meningie
+
+URL: https://www.abc.net.au/radio/brisbane/weather/
+PRIMARY LOCATION: Brisbane
+Brisbane	https://www.abc.net.au/radio/brisbane/weather/?town=Brisbane
+Archerfield	https://www.abc.net.au/radio/brisbane/weather/?town=Archerfield
+Brisbane Ap	https://www.abc.net.au/radio/brisbane/weather/?town=Brisbane%20Ap
+Cape Moreton	https://www.abc.net.au/radio/brisbane/weather/?town=Cape%20Moreton
+Gatton	https://www.abc.net.au/radio/brisbane/weather/?town=Gatton
+Ipswich	https://www.abc.net.au/radio/brisbane/weather/?town=Ipswich
+Logan City	https://www.abc.net.au/radio/brisbane/weather/?town=Logan%20City
+Redcliffe	https://www.abc.net.au/radio/brisbane/weather/?town=Redcliffe
+
+URL: https://www.abc.net.au/radio/canberra/weather/
+PRIMARY LOCATION: Canberra
+Canberra	https://www.abc.net.au/radio/canberra/weather/?town=Canberra
+Burrinjuck	https://www.abc.net.au/radio/canberra/weather/?town=Burrinjuck
+Tidbinbilla	https://www.abc.net.au/radio/canberra/weather/?town=Tidbinbilla
+Tuggeranong	https://www.abc.net.au/radio/canberra/weather/?town=Tuggeranong
+Yass	https://www.abc.net.au/radio/canberra/weather/?town=Yass
+
+URL: https://www.abc.net.au/radio/darwin/weather/
+PRIMARY LOCATION: Darwin
+Darwin	https://www.abc.net.au/radio/darwin/weather/?town=Darwin
+Alyangula	https://www.abc.net.au/radio/darwin/weather/?town=Alyangula
+Batchelor	https://www.abc.net.au/radio/darwin/weather/?town=Batchelor
+Borroloola	https://www.abc.net.au/radio/darwin/weather/?town=Borroloola
+Centre Island	https://www.abc.net.au/radio/darwin/weather/?town=Centre%20Island
+Channel Point	https://www.abc.net.au/radio/darwin/weather/?town=Channel%20Point
+Douglas River	https://www.abc.net.au/radio/darwin/weather/?town=Douglas%20River
+Elcho Island	https://www.abc.net.au/radio/darwin/weather/?town=Elcho%20Island
+Elliott	https://www.abc.net.au/radio/darwin/weather/?town=Elliott
+
+URL: https://www.abc.net.au/radio/hobart/weather/
+PRIMARY LOCATION: Hobart
+Hobart	https://www.abc.net.au/radio/hobart/weather/?town=Hobart
+Bull Bay	https://www.abc.net.au/radio/hobart/weather/?town=Bull%20Bay
+Bushy Park	https://www.abc.net.au/radio/hobart/weather/?town=Bushy%20Park
+Cape Bruny	https://www.abc.net.au/radio/hobart/weather/?town=Cape%20Bruny
+Dover	https://www.abc.net.au/radio/hobart/weather/?town=Dover
+Friendly Beaches	https://www.abc.net.au/radio/hobart/weather/?town=Friendly%20Beaches
+Geeveston	https://www.abc.net.au/radio/hobart/weather/?town=Geeveston
+Grove	https://www.abc.net.au/radio/hobart/weather/?town=Grove
+Launceston	https://www.abc.net.au/radio/hobart/weather/?town=Launceston
+
+URL: https://www.abc.net.au/radio/melbourne/weather/
+PRIMARY LOCATION: Melbourne
+Melbourne	https://www.abc.net.au/radio/melbourne/weather/?town=Melbourne
+Aireys Inlet	https://www.abc.net.au/radio/melbourne/weather/?town=Aireys%20Inlet
+Avalon	https://www.abc.net.au/radio/melbourne/weather/?town=Avalon
+Cranbourne	https://www.abc.net.au/radio/melbourne/weather/?town=Cranbourne
+Frankston	https://www.abc.net.au/radio/melbourne/weather/?town=Frankston
+Geelong	https://www.abc.net.au/radio/melbourne/weather/?town=Geelong
+Kilmore	https://www.abc.net.au/radio/melbourne/weather/?town=Kilmore
+Moorabbin	https://www.abc.net.au/radio/melbourne/weather/?town=Moorabbin
+Mt Dandenong	https://www.abc.net.au/radio/melbourne/weather/?town=Mt%20Dandenong
+
+URL: https://www.abc.net.au/radio/perth/weather/
+PRIMARY LOCATION: Perth
+Perth	https://www.abc.net.au/radio/perth/weather/?town=Perth
+Beverley	https://www.abc.net.au/radio/perth/weather/?town=Beverley
+Gosnells City	https://www.abc.net.au/radio/perth/weather/?town=Gosnells%20City
+Jandakot	https://www.abc.net.au/radio/perth/weather/?town=Jandakot
+Jurien Bay	https://www.abc.net.au/radio/perth/weather/?town=Jurien%20Bay
+Lancelin	https://www.abc.net.au/radio/perth/weather/?town=Lancelin
+Mandurah	https://www.abc.net.au/radio/perth/weather/?town=Mandurah
+Northam	https://www.abc.net.au/radio/perth/weather/?town=Northam
+Pearce	https://www.abc.net.au/radio/perth/weather/?town=Pearce
+
+URL: https://www.abc.net.au/radio/sydney/weather/
+PRIMARY LOCATION: Sydney
+Sydney	https://www.abc.net.au/radio/sydney/weather/?town=Sydney
+Bankstown	https://www.abc.net.au/radio/sydney/weather/?town=Bankstown
+Campbelltown	https://www.abc.net.au/radio/sydney/weather/?town=Campbelltown
+Homebush	https://www.abc.net.au/radio/sydney/weather/?town=Homebush
+Liverpool	https://www.abc.net.au/radio/sydney/weather/?town=Liverpool
+Mascot	https://www.abc.net.au/radio/sydney/weather/?town=Mascot
+Parramatta	https://www.abc.net.au/radio/sydney/weather/?town=Parramatta
+Penrith	https://www.abc.net.au/radio/sydney/weather/?town=Penrith
+Springwood	https://www.abc.net.au/radio/sydney/weather/?town=Springwood
+Terrey Hills	https://www.abc.net.au/radio/sydney/weather/?town=Terrey%20Hills
+
+URL: https://www.abc.net.au/radio/alicesprings/weather/
+PRIMARY LOCATION: Alice Springs
+Alice Springs	https://www.abc.net.au/radio/alicesprings/weather/?town=Alice%20Springs
+Ali Curung	https://www.abc.net.au/radio/alicesprings/weather/?town=Ali%20Curung
+Brunette Downs	https://www.abc.net.au/radio/alicesprings/weather/?town=Brunette%20Downs
+Jervois	https://www.abc.net.au/radio/alicesprings/weather/?town=Jervois
+Kulgera	https://www.abc.net.au/radio/alicesprings/weather/?town=Kulgera
+Tennant Creek	https://www.abc.net.au/radio/alicesprings/weather/?town=Tennant%20Creek
+Territory Grape Farm	https://www.abc.net.au/radio/alicesprings/weather/?town=Territory%20Grape%20Farm
+Uluru	https://www.abc.net.au/radio/alicesprings/weather/?town=Uluru
+Watarrka	https://www.abc.net.au/radio/alicesprings/weather/?town=Watarrka
+Yuendumu	https://www.abc.net.au/radio/alicesprings/weather/?town=Yuendumu
+
+URL: https://www.abc.net.au/radio/ballarat/weather/
+PRIMARY LOCATION: Ballarat
+Ballarat	https://www.abc.net.au/radio/ballarat/weather/?town=Ballarat
+Ararat	https://www.abc.net.au/radio/ballarat/weather/?town=Ararat
+Cape Otway	https://www.abc.net.au/radio/ballarat/weather/?town=Cape%20Otway
+Colac	https://www.abc.net.au/radio/ballarat/weather/?town=Colac
+Maryborough	https://www.abc.net.au/radio/ballarat/weather/?town=Maryborough
+Mortlake	https://www.abc.net.au/radio/ballarat/weather/?town=Mortlake
+Stawell	https://www.abc.net.au/radio/ballarat/weather/?town=Stawell
+
+URL: https://www.abc.net.au/radio/brokenhill/weather/
+PRIMARY LOCATION: Broken Hill
+Broken Hill	https://www.abc.net.au/radio/brokenhill/weather/?town=Broken%20Hill
+Lake Victoria	https://www.abc.net.au/radio/brokenhill/weather/?town=Lake%20Victoria
+Menindee	https://www.abc.net.au/radio/brokenhill/weather/?town=Menindee
+Tibooburra	https://www.abc.net.au/radio/brokenhill/weather/?town=Tibooburra
+White Cliffs	https://www.abc.net.au/radio/brokenhill/weather/?town=White%20Cliffs
+Wilcannia	https://www.abc.net.au/radio/brokenhill/weather/?town=Wilcannia
+Yunta	https://www.abc.net.au/radio/brokenhill/weather/?town=Yunta
+
+URL: https://www.abc.net.au/radio/capricornia/weather/
+PRIMARY LOCATION: Rockhampton
+Rockhampton	https://www.abc.net.au/radio/capricornia/weather/?town=Rockhampton
+Blackwater	https://www.abc.net.au/radio/capricornia/weather/?town=Blackwater
+Clermont	https://www.abc.net.au/radio/capricornia/weather/?town=Clermont
+Emerald	https://www.abc.net.au/radio/capricornia/weather/?town=Emerald
+Gladstone	https://www.abc.net.au/radio/capricornia/weather/?town=Gladstone
+Miriam Vale	https://www.abc.net.au/radio/capricornia/weather/?town=Miriam%20Vale
+Rolleston	https://www.abc.net.au/radio/capricornia/weather/?town=Rolleston
+Rundle Island	https://www.abc.net.au/radio/capricornia/weather/?town=Rundle%20Island
+Springsure	https://www.abc.net.au/radio/capricornia/weather/?town=Springsure
+
+URL: https://www.abc.net.au/radio/centralcoast/weather/
+PRIMARY LOCATION: Gosford
+Gosford	https://www.abc.net.au/radio/centralcoast/weather/?town=Gosford
+Mangrove Mt	https://www.abc.net.au/radio/centralcoast/weather/?town=Mangrove%20Mt
+Norah Head	https://www.abc.net.au/radio/centralcoast/weather/?town=Norah%20Head
+Peats Ridge	https://www.abc.net.au/radio/centralcoast/weather/?town=Peats%20Ridge
+
+URL: https://www.abc.net.au/radio/centralvic/weather/
+PRIMARY LOCATION: Bendigo
+Bendigo	https://www.abc.net.au/radio/centralvic/weather/?town=Bendigo
+Castlemaine	https://www.abc.net.au/radio/centralvic/weather/?town=Castlemaine
+Echuca	https://www.abc.net.au/radio/centralvic/weather/?town=Echuca
+Kerang	https://www.abc.net.au/radio/centralvic/weather/?town=Kerang
+Redesdale	https://www.abc.net.au/radio/centralvic/weather/?town=Redesdale
+
+URL: https://www.abc.net.au/radio/centralwest/weather/
+PRIMARY LOCATION: Orange
+Orange	https://www.abc.net.au/radio/centralwest/weather/?town=Orange
+Bathurst	https://www.abc.net.au/radio/centralwest/weather/?town=Bathurst
+Condobolin	https://www.abc.net.au/radio/centralwest/weather/?town=Condobolin
+Forbes	https://www.abc.net.au/radio/centralwest/weather/?town=Forbes
+Grenfell	https://www.abc.net.au/radio/centralwest/weather/?town=Grenfell
+Mudgee	https://www.abc.net.au/radio/centralwest/weather/?town=Mudgee
+Parkes	https://www.abc.net.au/radio/centralwest/weather/?town=Parkes
+Quandialla	https://www.abc.net.au/radio/centralwest/weather/?town=Quandialla
+West Wyalong	https://www.abc.net.au/radio/centralwest/weather/?town=West%20Wyalong
+Young	https://www.abc.net.au/radio/centralwest/weather/?town=Young
+
+URL: https://www.abc.net.au/radio/coffscoast/weather/
+PRIMARY LOCATION: Coffs Harbour
+Coffs Harbour	https://www.abc.net.au/radio/coffscoast/weather/?town=Coffs%20Harbour
+Forster	https://www.abc.net.au/radio/coffscoast/weather/?town=Forster
+Kempsey	https://www.abc.net.au/radio/coffscoast/weather/?town=Kempsey
+Lord Howe Is	https://www.abc.net.au/radio/coffscoast/weather/?town=Lord%20Howe%20Is
+Mt Seaview	https://www.abc.net.au/radio/coffscoast/weather/?town=Mt%20Seaview
+Port Macquarie	https://www.abc.net.au/radio/coffscoast/weather/?town=Port%20Macquarie
+Smoky Cape	https://www.abc.net.au/radio/coffscoast/weather/?town=Smoky%20Cape
+Taree	https://www.abc.net.au/radio/coffscoast/weather/?town=Taree
+
+URL: https://www.abc.net.au/radio/esperance/weather/
+PRIMARY LOCATION: Esperance
+Esperance	https://www.abc.net.au/radio/esperance/weather/?town=Esperance
+Balgair	https://www.abc.net.au/radio/esperance/weather/?town=Balgair
+Eucla	https://www.abc.net.au/radio/esperance/weather/?town=Eucla
+Eyre	https://www.abc.net.au/radio/esperance/weather/?town=Eyre
+Forrest	https://www.abc.net.au/radio/esperance/weather/?town=Forrest
+Kalgoorlie	https://www.abc.net.au/radio/esperance/weather/?town=Kalgoorlie
+Laverton	https://www.abc.net.au/radio/esperance/weather/?town=Laverton
+Leinster	https://www.abc.net.au/radio/esperance/weather/?town=Leinster
+Leonora	https://www.abc.net.au/radio/esperance/weather/?town=Leonora
+
+URL: https://www.abc.net.au/radio/eyre/weather/
+PRIMARY LOCATION: Port Lincoln
+Port Lincoln	https://www.abc.net.au/radio/eyre/weather/?town=Port%20Lincoln
+Ceduna	https://www.abc.net.au/radio/eyre/weather/?town=Ceduna
+Cleve	https://www.abc.net.au/radio/eyre/weather/?town=Cleve
+Coles Pt	https://www.abc.net.au/radio/eyre/weather/?town=Coles%20Pt
+Elliston	https://www.abc.net.au/radio/eyre/weather/?town=Elliston
+Kimba	https://www.abc.net.au/radio/eyre/weather/?town=Kimba
+Kyancutta	https://www.abc.net.au/radio/eyre/weather/?town=Kyancutta
+Minnipa	https://www.abc.net.au/radio/eyre/weather/?town=Minnipa
+Streaky Bay	https://www.abc.net.au/radio/eyre/weather/?town=Streaky%20Bay
+Wudinna	https://www.abc.net.au/radio/eyre/weather/?town=Wudinna
+
+URL: https://www.abc.net.au/radio/farnorth/weather/
+PRIMARY LOCATION: Cairns
+Cairns	https://www.abc.net.au/radio/farnorth/weather/?town=Cairns
+Atherton	https://www.abc.net.au/radio/farnorth/weather/?town=Atherton
+Cooktown	https://www.abc.net.au/radio/farnorth/weather/?town=Cooktown
+Croydon	https://www.abc.net.au/radio/farnorth/weather/?town=Croydon
+Georgetown	https://www.abc.net.au/radio/farnorth/weather/?town=Georgetown
+Green Island	https://www.abc.net.au/radio/farnorth/weather/?town=Green%20Island
+Horn Island	https://www.abc.net.au/radio/farnorth/weather/?town=Horn%20Island
+Innisfail	https://www.abc.net.au/radio/farnorth/weather/?town=Innisfail
+Kowanyama	https://www.abc.net.au/radio/farnorth/weather/?town=Kowanyama
+
+URL: https://www.abc.net.au/radio/gippsland/weather/
+PRIMARY LOCATION: Sale
+Sale	https://www.abc.net.au/radio/gippsland/weather/?town=Sale
+Bairnsdale	https://www.abc.net.au/radio/gippsland/weather/?town=Bairnsdale
+Gabo Island	https://www.abc.net.au/radio/gippsland/weather/?town=Gabo%20Island
+Lakes Entrance	https://www.abc.net.au/radio/gippsland/weather/?town=Lakes%20Entrance
+Latrobe Valley	https://www.abc.net.au/radio/gippsland/weather/?town=Latrobe%20Valley
+Mt Nowa Nowa	https://www.abc.net.au/radio/gippsland/weather/?town=Mt%20Nowa%20Nowa
+Omeo	https://www.abc.net.au/radio/gippsland/weather/?town=Omeo
+Phillip Is	https://www.abc.net.au/radio/gippsland/weather/?town=Phillip%20Is
+Wilsons Promontory	https://www.abc.net.au/radio/gippsland/weather/?town=Wilsons%20Promontory
+
+URL: https://www.abc.net.au/radio/goldcoast/weather/
+PRIMARY LOCATION: Gold Coast
+Gold Coast	https://www.abc.net.au/radio/goldcoast/weather/?town=Gold%20Coast
+Coolangatta	https://www.abc.net.au/radio/goldcoast/weather/?town=Coolangatta
+Nerang	https://www.abc.net.au/radio/goldcoast/weather/?town=Nerang
+
+URL: https://www.abc.net.au/radio/goldfields/weather/
+PRIMARY LOCATION: Kalgoorlie
+Kalgoorlie	https://www.abc.net.au/radio/goldfields/weather/?town=Kalgoorlie
+Balgair	https://www.abc.net.au/radio/goldfields/weather/?town=Balgair
+Esperance	https://www.abc.net.au/radio/goldfields/weather/?town=Esperance
+Eucla	https://www.abc.net.au/radio/goldfields/weather/?town=Eucla
+Eyre	https://www.abc.net.au/radio/goldfields/weather/?town=Eyre
+Forrest	https://www.abc.net.au/radio/goldfields/weather/?town=Forrest
+Laverton	https://www.abc.net.au/radio/goldfields/weather/?town=Laverton
+Leinster	https://www.abc.net.au/radio/goldfields/weather/?town=Leinster
+Leonora	https://www.abc.net.au/radio/goldfields/weather/?town=Leonora
+
+URL: https://www.abc.net.au/radio/goulburnmurray/weather/
+PRIMARY LOCATION: Albury
+Albury	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Albury
+Beechworth	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Beechworth
+Benalla	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Benalla
+Bright	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Bright
+Corryong	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Corryong
+Dartmouth	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Dartmouth
+Edi Upper	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Edi%20Upper
+Falls Creek	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Falls%20Creek
+Wangaratta	https://www.abc.net.au/radio/goulburnmurray/weather/?town=Wangaratta
+
+URL: https://www.abc.net.au/radio/greatsouthern/weather/
+PRIMARY LOCATION: Albany
+Albany	https://www.abc.net.au/radio/greatsouthern/weather/?town=Albany
+Corrigin	https://www.abc.net.au/radio/greatsouthern/weather/?town=Corrigin
+Hopetoun	https://www.abc.net.au/radio/greatsouthern/weather/?town=Hopetoun
+Jacup	https://www.abc.net.au/radio/greatsouthern/weather/?town=Jacup
+Katanning	https://www.abc.net.au/radio/greatsouthern/weather/?town=Katanning
+Lake Grace	https://www.abc.net.au/radio/greatsouthern/weather/?town=Lake%20Grace
+Narrogin	https://www.abc.net.au/radio/greatsouthern/weather/?town=Narrogin
+Newdegate	https://www.abc.net.au/radio/greatsouthern/weather/?town=Newdegate
+Ravensthorpe	https://www.abc.net.au/radio/greatsouthern/weather/?town=Ravensthorpe
+
+URL: https://www.abc.net.au/radio/illawarra/weather/
+PRIMARY LOCATION: Wollongong
+Wollongong	https://www.abc.net.au/radio/illawarra/weather/?town=Wollongong
+Albion Park	https://www.abc.net.au/radio/illawarra/weather/?town=Albion%20Park
+Bowral	https://www.abc.net.au/radio/illawarra/weather/?town=Bowral
+Braidwood	https://www.abc.net.au/radio/illawarra/weather/?town=Braidwood
+Goulburn	https://www.abc.net.au/radio/illawarra/weather/?town=Goulburn
+Nerriga	https://www.abc.net.au/radio/illawarra/weather/?town=Nerriga
+Nowra	https://www.abc.net.au/radio/illawarra/weather/?town=Nowra
+Taralga	https://www.abc.net.au/radio/illawarra/weather/?town=Taralga
+Ulladulla	https://www.abc.net.au/radio/illawarra/weather/?town=Ulladulla
+
+URL: https://www.abc.net.au/radio/katherine/weather/
+PRIMARY LOCATION: Katherine
+Katherine	https://www.abc.net.au/radio/katherine/weather/?town=Katherine
+Alyangula	https://www.abc.net.au/radio/katherine/weather/?town=Alyangula
+Borroloola	https://www.abc.net.au/radio/katherine/weather/?town=Borroloola
+Centre Island	https://www.abc.net.au/radio/katherine/weather/?town=Centre%20Island
+Channel Point	https://www.abc.net.au/radio/katherine/weather/?town=Channel%20Point
+Darwin	https://www.abc.net.au/radio/katherine/weather/?town=Darwin
+Douglas River	https://www.abc.net.au/radio/katherine/weather/?town=Douglas%20River
+Elcho Island	https://www.abc.net.au/radio/katherine/weather/?town=Elcho%20Island
+Elliott	https://www.abc.net.au/radio/katherine/weather/?town=Elliott
+
+URL: https://www.abc.net.au/radio/kimberley/weather/
+PRIMARY LOCATION: Broome
+Broome	https://www.abc.net.au/radio/kimberley/weather/?town=Broome
+Balgo Hills	https://www.abc.net.au/radio/kimberley/weather/?town=Balgo%20Hills
+Bidyadanga	https://www.abc.net.au/radio/kimberley/weather/?town=Bidyadanga
+Cocos Island	https://www.abc.net.au/radio/kimberley/weather/?town=Cocos%20Island
+Cygnet Bay	https://www.abc.net.au/radio/kimberley/weather/?town=Cygnet%20Bay
+Derby	https://www.abc.net.au/radio/kimberley/weather/?town=Derby
+Doongan	https://www.abc.net.au/radio/kimberley/weather/?town=Doongan
+Fitzroy Crossing	https://www.abc.net.au/radio/kimberley/weather/?town=Fitzroy%20Crossing
+Halls Creek	https://www.abc.net.au/radio/kimberley/weather/?town=Halls%20Creek
+
+URL: https://www.abc.net.au/radio/midnorthcoast/weather/
+PRIMARY LOCATION: Port Macquarie
+Port Macquarie	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Port%20Macquarie
+Coffs Harbour	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Coffs%20Harbour
+Forster	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Forster
+Kempsey	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Kempsey
+Lord Howe Is	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Lord%20Howe%20Is
+Mt Seaview	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Mt%20Seaview
+Smoky Cape	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Smoky%20Cape
+Taree	https://www.abc.net.au/radio/midnorthcoast/weather/?town=Taree
+
+URL: https://www.abc.net.au/radio/milduraswanhill/weather/
+PRIMARY LOCATION: Mildura
+Mildura	https://www.abc.net.au/radio/milduraswanhill/weather/?town=Mildura
+Kerang	https://www.abc.net.au/radio/milduraswanhill/weather/?town=Kerang
+Ouyen	https://www.abc.net.au/radio/milduraswanhill/weather/?town=Ouyen
+Swan Hill	https://www.abc.net.au/radio/milduraswanhill/weather/?town=Swan%20Hill
+Walpeup	https://www.abc.net.au/radio/milduraswanhill/weather/?town=Walpeup
+
+URL: https://www.abc.net.au/radio/newcastle/weather/
+PRIMARY LOCATION: Newcastle
+Newcastle	https://www.abc.net.au/radio/newcastle/weather/?town=Newcastle
+Cessnock	https://www.abc.net.au/radio/newcastle/weather/?town=Cessnock
+Jerrys Plains	https://www.abc.net.au/radio/newcastle/weather/?town=Jerrys%20Plains
+Lostock Dam	https://www.abc.net.au/radio/newcastle/weather/?town=Lostock%20Dam
+Maitland	https://www.abc.net.au/radio/newcastle/weather/?town=Maitland
+Murrurundi	https://www.abc.net.au/radio/newcastle/weather/?town=Murrurundi
+Nobbys Head	https://www.abc.net.au/radio/newcastle/weather/?town=Nobbys%20Head
+Norah Head	https://www.abc.net.au/radio/newcastle/weather/?town=Norah%20Head
+Nullo Mt	https://www.abc.net.au/radio/newcastle/weather/?town=Nullo%20Mt
+
+URL: https://www.abc.net.au/radio/newengland/weather/
+PRIMARY LOCATION: Tamworth
+Tamworth	https://www.abc.net.au/radio/newengland/weather/?town=Tamworth
+Armidale	https://www.abc.net.au/radio/newengland/weather/?town=Armidale
+Glen Innes	https://www.abc.net.au/radio/newengland/weather/?town=Glen%20Innes
+Inverell	https://www.abc.net.au/radio/newengland/weather/?town=Inverell
+Moree	https://www.abc.net.au/radio/newengland/weather/?town=Moree
+Mungindi	https://www.abc.net.au/radio/newengland/weather/?town=Mungindi
+Narrabri	https://www.abc.net.au/radio/newengland/weather/?town=Narrabri
+Quirindi	https://www.abc.net.au/radio/newengland/weather/?town=Quirindi
+Tenterfield	https://www.abc.net.au/radio/newengland/weather/?town=Tenterfield
+
+URL: https://www.abc.net.au/radio/northandwest/weather/
+PRIMARY LOCATION: Port Pirie
+Port Pirie	https://www.abc.net.au/radio/northandwest/weather/?town=Port%20Pirie
+Andamooka	https://www.abc.net.au/radio/northandwest/weather/?town=Andamooka
+Coober Pedy	https://www.abc.net.au/radio/northandwest/weather/?town=Coober%20Pedy
+Ernabella	https://www.abc.net.au/radio/northandwest/weather/?town=Ernabella
+Leigh Creek	https://www.abc.net.au/radio/northandwest/weather/?town=Leigh%20Creek
+Nonning	https://www.abc.net.au/radio/northandwest/weather/?town=Nonning
+Nullarbor	https://www.abc.net.au/radio/northandwest/weather/?town=Nullarbor
+Oodnadatta	https://www.abc.net.au/radio/northandwest/weather/?town=Oodnadatta
+Port Augusta	https://www.abc.net.au/radio/northandwest/weather/?town=Port%20Augusta
+
+URL: https://www.abc.net.au/radio/northcoast/weather/
+PRIMARY LOCATION: Lismore
+Lismore	https://www.abc.net.au/radio/northcoast/weather/?town=Lismore
+Alstonville	https://www.abc.net.au/radio/northcoast/weather/?town=Alstonville
+Ballina	https://www.abc.net.au/radio/northcoast/weather/?town=Ballina
+Byron Bay	https://www.abc.net.au/radio/northcoast/weather/?town=Byron%20Bay
+Casino	https://www.abc.net.au/radio/northcoast/weather/?town=Casino
+Grafton	https://www.abc.net.au/radio/northcoast/weather/?town=Grafton
+Murwillumbah	https://www.abc.net.au/radio/northcoast/weather/?town=Murwillumbah
+Tabulam	https://www.abc.net.au/radio/northcoast/weather/?town=Tabulam
+Yamba	https://www.abc.net.au/radio/northcoast/weather/?town=Yamba
+
+URL: https://www.abc.net.au/radio/northqld/weather/
+PRIMARY LOCATION: Townsville
+Townsville	https://www.abc.net.au/radio/northqld/weather/?town=Townsville
+Ayr	https://www.abc.net.au/radio/northqld/weather/?town=Ayr
+Bowen	https://www.abc.net.au/radio/northqld/weather/?town=Bowen
+Charters Towers	https://www.abc.net.au/radio/northqld/weather/?town=Charters%20Towers
+Hughenden	https://www.abc.net.au/radio/northqld/weather/?town=Hughenden
+Ingham	https://www.abc.net.au/radio/northqld/weather/?town=Ingham
+Lucinda	https://www.abc.net.au/radio/northqld/weather/?town=Lucinda
+
+URL: https://www.abc.net.au/radio/northtas/weather/
+PRIMARY LOCATION: Launceston
+Launceston	https://www.abc.net.au/radio/northtas/weather/?town=Launceston
+Bicheno	https://www.abc.net.au/radio/northtas/weather/?town=Bicheno
+Burnie	https://www.abc.net.au/radio/northtas/weather/?town=Burnie
+Devonport	https://www.abc.net.au/radio/northtas/weather/?town=Devonport
+Flinders Is	https://www.abc.net.au/radio/northtas/weather/?town=Flinders%20Is
+King Island	https://www.abc.net.au/radio/northtas/weather/?town=King%20Island
+Scottsdale	https://www.abc.net.au/radio/northtas/weather/?town=Scottsdale
+Smithton	https://www.abc.net.au/radio/northtas/weather/?town=Smithton
+St Helens	https://www.abc.net.au/radio/northtas/weather/?town=St%20Helens
+
+URL: https://www.abc.net.au/radio/northwest/weather/
+PRIMARY LOCATION: Mount Isa
+Mount Isa	https://www.abc.net.au/radio/northwest/weather/?town=Mount%20Isa
+Boulia	https://www.abc.net.au/radio/northwest/weather/?town=Boulia
+Burketown	https://www.abc.net.au/radio/northwest/weather/?town=Burketown
+Camooweal	https://www.abc.net.au/radio/northwest/weather/?town=Camooweal
+Cannington	https://www.abc.net.au/radio/northwest/weather/?town=Cannington
+Lawn Hill Station	https://www.abc.net.au/radio/northwest/weather/?town=Lawn%20Hill%20Station
+Normanton	https://www.abc.net.au/radio/northwest/weather/?town=Normanton
+Phosphate Hill	https://www.abc.net.au/radio/northwest/weather/?town=Phosphate%20Hill
+Richmond	https://www.abc.net.au/radio/northwest/weather/?town=Richmond
+Urandangie	https://www.abc.net.au/radio/northwest/weather/?town=Urandangie
+
+URL: https://www.abc.net.au/radio/pilbara/weather/
+PRIMARY LOCATION: Karratha
+Karratha	https://www.abc.net.au/radio/pilbara/weather/?town=Karratha
+Carnarvon	https://www.abc.net.au/radio/pilbara/weather/?town=Carnarvon
+Denham	https://www.abc.net.au/radio/pilbara/weather/?town=Denham
+Exmouth	https://www.abc.net.au/radio/pilbara/weather/?town=Exmouth
+Gascoyne Junction	https://www.abc.net.au/radio/pilbara/weather/?town=Gascoyne%20Junction
+Marble Bar	https://www.abc.net.au/radio/pilbara/weather/?town=Marble%20Bar
+Newman	https://www.abc.net.au/radio/pilbara/weather/?town=Newman
+Port Hedland	https://www.abc.net.au/radio/pilbara/weather/?town=Port%20Hedland
+Tom Price	https://www.abc.net.au/radio/pilbara/weather/?town=Tom%20Price
+
+URL: https://www.abc.net.au/radio/riverina/weather/
+PRIMARY LOCATION: Wagga Wagga
+Wagga Wagga	https://www.abc.net.au/radio/riverina/weather/?town=Wagga%20Wagga
+Balranald	https://www.abc.net.au/radio/riverina/weather/?town=Balranald
+Cootamundra	https://www.abc.net.au/radio/riverina/weather/?town=Cootamundra
+Deniliquin	https://www.abc.net.au/radio/riverina/weather/?town=Deniliquin
+Griffith	https://www.abc.net.au/radio/riverina/weather/?town=Griffith
+Hay	https://www.abc.net.au/radio/riverina/weather/?town=Hay
+Narrandera	https://www.abc.net.au/radio/riverina/weather/?town=Narrandera
+Tocumwal	https://www.abc.net.au/radio/riverina/weather/?town=Tocumwal
+Tumbarumba	https://www.abc.net.au/radio/riverina/weather/?town=Tumbarumba
+
+URL: https://www.abc.net.au/radio/riverland/weather/
+PRIMARY LOCATION: Renmark
+Renmark	https://www.abc.net.au/radio/riverland/weather/?town=Renmark
+Berri	https://www.abc.net.au/radio/riverland/weather/?town=Berri
+Eudunda	https://www.abc.net.au/radio/riverland/weather/?town=Eudunda
+Loxton	https://www.abc.net.au/radio/riverland/weather/?town=Loxton
+Waikerie	https://www.abc.net.au/radio/riverland/weather/?town=Waikerie
+
+URL: https://www.abc.net.au/radio/shepparton/weather/
+PRIMARY LOCATION: Shepparton
+Shepparton	https://www.abc.net.au/radio/shepparton/weather/?town=Shepparton
+Benalla	https://www.abc.net.au/radio/shepparton/weather/?town=Benalla
+Edi Upper	https://www.abc.net.au/radio/shepparton/weather/?town=Edi%20Upper
+Eildon	https://www.abc.net.au/radio/shepparton/weather/?town=Eildon
+Kyabram	https://www.abc.net.au/radio/shepparton/weather/?town=Kyabram
+Mt Buller	https://www.abc.net.au/radio/shepparton/weather/?town=Mt%20Buller
+Seymour	https://www.abc.net.au/radio/shepparton/weather/?town=Seymour
+Strathbogie	https://www.abc.net.au/radio/shepparton/weather/?town=Strathbogie
+Tatura	https://www.abc.net.au/radio/shepparton/weather/?town=Tatura
+
+URL: https://www.abc.net.au/radio/southeastnsw/weather/
+PRIMARY LOCATION: Bega
+Bega	https://www.abc.net.au/radio/southeastnsw/weather/?town=Bega
+Batemans Bay	https://www.abc.net.au/radio/southeastnsw/weather/?town=Batemans%20Bay
+Bombala	https://www.abc.net.au/radio/southeastnsw/weather/?town=Bombala
+Cabramurra	https://www.abc.net.au/radio/southeastnsw/weather/?town=Cabramurra
+Charlotte Pass	https://www.abc.net.au/radio/southeastnsw/weather/?town=Charlotte%20Pass
+Cooma	https://www.abc.net.au/radio/southeastnsw/weather/?town=Cooma
+Merimbula	https://www.abc.net.au/radio/southeastnsw/weather/?town=Merimbula
+Montague Is	https://www.abc.net.au/radio/southeastnsw/weather/?town=Montague%20Is
+Moruya	https://www.abc.net.au/radio/southeastnsw/weather/?town=Moruya
+
+URL: https://www.abc.net.au/radio/southeastsa/weather/
+PRIMARY LOCATION: Mt Gambier
+Mt Gambier	https://www.abc.net.au/radio/southeastsa/weather/?town=Mt%20Gambier
+Cape Jaffa	https://www.abc.net.au/radio/southeastsa/weather/?town=Cape%20Jaffa
+Coonawarra	https://www.abc.net.au/radio/southeastsa/weather/?town=Coonawarra
+Keith	https://www.abc.net.au/radio/southeastsa/weather/?town=Keith
+Lameroo	https://www.abc.net.au/radio/southeastsa/weather/?town=Lameroo
+Naracoorte	https://www.abc.net.au/radio/southeastsa/weather/?town=Naracoorte
+Padthaway	https://www.abc.net.au/radio/southeastsa/weather/?town=Padthaway
+Robe	https://www.abc.net.au/radio/southeastsa/weather/?town=Robe
+
+URL: https://www.abc.net.au/radio/southqld/weather/
+PRIMARY LOCATION: Toowoomba
+Toowoomba	https://www.abc.net.au/radio/southqld/weather/?town=Toowoomba
+Charleville	https://www.abc.net.au/radio/southqld/weather/?town=Charleville
+Cunnamulla	https://www.abc.net.au/radio/southqld/weather/?town=Cunnamulla
+Goondiwindi	https://www.abc.net.au/radio/southqld/weather/?town=Goondiwindi
+Kingaroy	https://www.abc.net.au/radio/southqld/weather/?town=Kingaroy
+Oakey	https://www.abc.net.au/radio/southqld/weather/?town=Oakey
+Roma	https://www.abc.net.au/radio/southqld/weather/?town=Roma
+St George	https://www.abc.net.au/radio/southqld/weather/?town=St%20George
+Stanthorpe	https://www.abc.net.au/radio/southqld/weather/?town=Stanthorpe
+Warwick	https://www.abc.net.au/radio/southqld/weather/?town=Warwick
+
+URL: https://www.abc.net.au/radio/southwestvic/weather/
+PRIMARY LOCATION: Warrnambool
+Warrnambool	https://www.abc.net.au/radio/southwestvic/weather/?town=Warrnambool
+Cape Nelson	https://www.abc.net.au/radio/southwestvic/weather/?town=Cape%20Nelson
+Cape Otway	https://www.abc.net.au/radio/southwestvic/weather/?town=Cape%20Otway
+Casterton	https://www.abc.net.au/radio/southwestvic/weather/?town=Casterton
+Lookout Hill	https://www.abc.net.au/radio/southwestvic/weather/?town=Lookout%20Hill
+Mortlake	https://www.abc.net.au/radio/southwestvic/weather/?town=Mortlake
+Port Fairy	https://www.abc.net.au/radio/southwestvic/weather/?town=Port%20Fairy
+Portland	https://www.abc.net.au/radio/southwestvic/weather/?town=Portland
+Stawell	https://www.abc.net.au/radio/southwestvic/weather/?town=Stawell
+
+URL: https://www.abc.net.au/radio/southwestwa/weather/
+PRIMARY LOCATION: Bunbury
+Bunbury	https://www.abc.net.au/radio/southwestwa/weather/?town=Bunbury
+Bridgetown	https://www.abc.net.au/radio/southwestwa/weather/?town=Bridgetown
+Busselton	https://www.abc.net.au/radio/southwestwa/weather/?town=Busselton
+Cape Leeuwin	https://www.abc.net.au/radio/southwestwa/weather/?town=Cape%20Leeuwin
+Cape Naturaliste	https://www.abc.net.au/radio/southwestwa/weather/?town=Cape%20Naturaliste
+Collie	https://www.abc.net.au/radio/southwestwa/weather/?town=Collie
+Donnybrook	https://www.abc.net.au/radio/southwestwa/weather/?town=Donnybrook
+Dwellingup	https://www.abc.net.au/radio/southwestwa/weather/?town=Dwellingup
+Manjimup	https://www.abc.net.au/radio/southwestwa/weather/?town=Manjimup
+
+URL: https://www.abc.net.au/radio/sunshine/weather/
+PRIMARY LOCATION: Maroochydore
+Maroochydore	https://www.abc.net.au/radio/sunshine/weather/?town=Maroochydore
+Caloundra	https://www.abc.net.au/radio/sunshine/weather/?town=Caloundra
+Cooroy	https://www.abc.net.au/radio/sunshine/weather/?town=Cooroy
+Maleny	https://www.abc.net.au/radio/sunshine/weather/?town=Maleny
+Nambour	https://www.abc.net.au/radio/sunshine/weather/?town=Nambour
+Sunshine Coast	https://www.abc.net.au/radio/sunshine/weather/?town=Sunshine%20Coast
+
+URL: https://www.abc.net.au/radio/tropic/weather/
+PRIMARY LOCATION: Mackay
+Mackay	https://www.abc.net.au/radio/tropic/weather/?town=Mackay
+Collinsville	https://www.abc.net.au/radio/tropic/weather/?town=Collinsville
+Hamilton Island	https://www.abc.net.au/radio/tropic/weather/?town=Hamilton%20Island
+Moranbah	https://www.abc.net.au/radio/tropic/weather/?town=Moranbah
+Proserpine	https://www.abc.net.au/radio/tropic/weather/?town=Proserpine
+Te Kowai	https://www.abc.net.au/radio/tropic/weather/?town=Te%20Kowai
+
+URL: https://www.abc.net.au/radio/upperhunter/weather/
+PRIMARY LOCATION: Muswellbrook
+Muswellbrook	https://www.abc.net.au/radio/upperhunter/weather/?town=Muswellbrook
+Jerrys Plains	https://www.abc.net.au/radio/upperhunter/weather/?town=Jerrys%20Plains
+Lostock Dam	https://www.abc.net.au/radio/upperhunter/weather/?town=Lostock%20Dam
+Murrurundi	https://www.abc.net.au/radio/upperhunter/weather/?town=Murrurundi
+Nullo Mt	https://www.abc.net.au/radio/upperhunter/weather/?town=Nullo%20Mt
+Scone	https://www.abc.net.au/radio/upperhunter/weather/?town=Scone
+Singleton	https://www.abc.net.au/radio/upperhunter/weather/?town=Singleton
+
+URL: https://www.abc.net.au/radio/westernplains/weather/
+PRIMARY LOCATION: Dubbo
+Dubbo	https://www.abc.net.au/radio/westernplains/weather/?town=Dubbo
+Bourke	https://www.abc.net.au/radio/westernplains/weather/?town=Bourke
+Brewarrina	https://www.abc.net.au/radio/westernplains/weather/?town=Brewarrina
+Cobar	https://www.abc.net.au/radio/westernplains/weather/?town=Cobar
+Collarenebri	https://www.abc.net.au/radio/westernplains/weather/?town=Collarenebri
+Coonabarabran	https://www.abc.net.au/radio/westernplains/weather/?town=Coonabarabran
+Coonamble	https://www.abc.net.au/radio/westernplains/weather/?town=Coonamble
+Dunedoo	https://www.abc.net.au/radio/westernplains/weather/?town=Dunedoo
+Gulgong	https://www.abc.net.au/radio/westernplains/weather/?town=Gulgong
+
+URL: https://www.abc.net.au/radio/wimmera/weather/
+PRIMARY LOCATION: Horsham
+Horsham	https://www.abc.net.au/radio/wimmera/weather/?town=Horsham
+Donald	https://www.abc.net.au/radio/wimmera/weather/?town=Donald
+Longerenong	https://www.abc.net.au/radio/wimmera/weather/?town=Longerenong
+Nhill	https://www.abc.net.au/radio/wimmera/weather/?town=Nhill
+
+URL: https://www.abc.net.au/radio/westqld/weather/
+PRIMARY LOCATION: Longreach
+Longreach	https://www.abc.net.au/radio/westqld/weather/?town=Longreach
+Barcaldine	https://www.abc.net.au/radio/westqld/weather/?town=Barcaldine
+Birdsville	https://www.abc.net.au/radio/westqld/weather/?town=Birdsville
+Charleville	https://www.abc.net.au/radio/westqld/weather/?town=Charleville
+Isisford	https://www.abc.net.au/radio/westqld/weather/?town=Isisford
+Tambo	https://www.abc.net.au/radio/westqld/weather/?town=Tambo
+Thargomindah	https://www.abc.net.au/radio/westqld/weather/?town=Thargomindah
+Windorah	https://www.abc.net.au/radio/westqld/weather/?town=Windorah
+Winton	https://www.abc.net.au/radio/westqld/weather/?town=Winton
+
+URL: https://www.abc.net.au/radio/wheatbelt/weather/
+PRIMARY LOCATION: Geraldton
+Geraldton	https://www.abc.net.au/radio/wheatbelt/weather/?town=Geraldton
+Bencubbin	https://www.abc.net.au/radio/wheatbelt/weather/?town=Bencubbin
+Dalwallinu	https://www.abc.net.au/radio/wheatbelt/weather/?town=Dalwallinu
+Merredin	https://www.abc.net.au/radio/wheatbelt/weather/?town=Merredin
+Moora	https://www.abc.net.au/radio/wheatbelt/weather/?town=Moora
+Morawa	https://www.abc.net.au/radio/wheatbelt/weather/?town=Morawa
+Mt Magnet	https://www.abc.net.au/radio/wheatbelt/weather/?town=Mt%20Magnet
+Mullewa	https://www.abc.net.au/radio/wheatbelt/weather/?town=Mullewa
+Northam	https://www.abc.net.au/radio/wheatbelt/weather/?town=Northam
+
+URL: https://www.abc.net.au/radio/widebay/weather/
+PRIMARY LOCATION: Bundaberg
+Bundaberg	https://www.abc.net.au/radio/widebay/weather/?town=Bundaberg
+Double Is Point	https://www.abc.net.au/radio/widebay/weather/?town=Double%20Is%20Point
+Gayndah	https://www.abc.net.au/radio/widebay/weather/?town=Gayndah
+Gympie	https://www.abc.net.au/radio/widebay/weather/?town=Gympie
+Hervey Bay	https://www.abc.net.au/radio/widebay/weather/?town=Hervey%20Bay
+Lady Elliot Is	https://www.abc.net.au/radio/widebay/weather/?town=Lady%20Elliot%20Is
+Maryborough	https://www.abc.net.au/radio/widebay/weather/?town=Maryborough
+Monto	https://www.abc.net.au/radio/widebay/weather/?town=Monto
+Mount Brian	https://www.abc.net.au/radio/widebay/weather/?town=Mount%20Brian
+
+

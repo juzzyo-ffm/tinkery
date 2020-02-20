@@ -1,0 +1,26 @@
+<html>
+<head>
+<script>
+
+    let start = performance.now();
+    let end;
+
+    function test_fun(){
+        end = performance.now();
+    }
+
+    setTimeout(function () {
+        end = performance.now();
+        console.log(end - start);
+    }, 1500)
+
+    console.log('Performance', console.dir(Performance))
+    console.log(Performance.prototype.measureMemory())
+
+
+</script>
+</head>
+<body>
+
+</body>
+</html>
