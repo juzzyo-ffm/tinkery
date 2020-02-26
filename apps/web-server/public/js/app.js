@@ -29,6 +29,7 @@ const fetchWeather = () => {
 };
 
 const keyTrigger = (evt) => {
+    console.log(evt);
     if (evt.code === 'Enter') {
         fetchWeather();
     }
