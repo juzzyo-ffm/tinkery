@@ -1,8 +1,10 @@
 const mongoose = require('mongoose');
 const validator = require('validator');
+const bcrypt = require('bcryptjs');
+const jwt = require('jsonwebtoken');
 
 
-const User = mongoose.model('User', {
+const userSchema = new mongoose.Schema({
     name: {
         type: String,
         required: [true, 'why not bacon?'],
@@ -39,24 +41,60 @@ const User = mongoose.model('User', {
             if (value.toLowerCase().includes('password')) {
                 throw new Error('password? rly?');
             }
-            // if (value.length < 6) {
-            //     throw new Error('Password to shrt');
-            // }
         }
-    }
+    },
+    tokens: [{
+        token: {
+            type: String,
+            required: true
+        }
+    }]
 });
 
+userSchema.methods.generateAuthToken = async function () {
+    // creating an instance method
+    console.log(process.env);
+    const user = this;
+    const token = jwt.sign({_id: user._id.toString()}, process.env.AUTHKEY);
+    user.tokens = user.tokens.concat({token});
+    await user.save();
+    return token;
+};
 
-// new User({name: 'Juzzy', age: 46})
-// const userOb = {
-//     name: 'justin',
-//     email: 'justin@BLARG.com',
-//     password: 'passwords',
-//     age: 8
-// };
-// new userModel(userOb)
-//     .save()
-//     .then((result) => console.log(result))
-//     .catch((error) => console.log(error.message));
+userSchema.statics.findUserByCredentials = async (email, password) => {
+    // statics are for model methods
+    try {
+        // try to find by email first,
+        const user = await User.findOne({email});
+        if (!user) {
+            throw new Error('Unable to log in.');
+        }
+
+        // then separately verify the password
+        const isMatch = await bcrypt.compare(password, user.password);
+        if (!isMatch) {
+            throw new Error('Unable to log in.');
+        }
+        // if all went well, return user
+        return user;
+    } catch (e) {
+        throw new Error(`Something went osowrongo. ${e}`);
+    }
+
+};
+
+// add middleware to hash passwords before saving
+userSchema.pre('save', async function (next) {
+    const user = this;
+
+    if (user.isModified('password')) {
+        user.password = await bcrypt.hash(user.password, 10);
+    }
+
+    next();
+});
+
+var User = mongoose.model('User', userSchema);
+
 
 module.exports = User;
