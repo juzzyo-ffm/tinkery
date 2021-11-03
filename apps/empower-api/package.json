@@ -21,7 +21,7 @@
     "mongodb": "^3.5.5",
     "mongoose": "^5.9.4",
     "mongoose-unique-validator": "^2.0.3",
-    "validator": "^12.2.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "@types/bcryptjs": "^2.4.2",
